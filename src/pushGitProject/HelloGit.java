@@ -3,7 +3,7 @@ package pushGitProject;
 public class HelloGit {
 
 	public static void main(String args[]){
-        System.out.println("HiEclipseGit");
+        System.out.println("HiEclipseGit2");
 
     }
 }
